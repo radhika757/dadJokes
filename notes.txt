@@ -4,4 +4,5 @@
     manifest.json file.
 > Now we have to specify what stuff will be shown when you click on the extension. That is called Browser Actions. 
 > specify the file in the default_popup. Make sure that the default icon should be 128 x 128 px. 
-> 
+> Search for upload chrome extension
+> compress the folder and upload. 
