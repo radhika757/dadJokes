@@ -1,0 +1,2 @@
+> A JSON file which will have all the properties of the extension. (manifest.json)
+> 
