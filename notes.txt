@@ -1,2 +1,7 @@
 > A JSON file which will have all the properties of the extension. (manifest.json)
+> Whenever you develop new changes, you gotta update the version.
+> How to load your extension in chrome? Go to extensions in chrome and switch on the developer mode. Select Load Unpacked and select the 
+    manifest.json file.
+> Now we have to specify what stuff will be shown when you click on the extension. That is called Browser Actions. 
+> specify the file in the default_popup. Make sure that the default icon should be 128 x 128 px. 
 > 
